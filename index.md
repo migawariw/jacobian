@@ -55,3 +55,5 @@ r\cos(\varphi)\cos(\theta) & r\cos(\varphi)\sin(\theta) & -r\sin(\varphi)
 $$
 
 よって、3変数 $(x, y, z)$ における極座標系のヤコビアンは$J=r^2\sin(\varphi)$となります。
+
+<script src="https: //blz-soft.github.io/md_style/release/v1.2/md_style.js" ></script>
